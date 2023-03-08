@@ -20,3 +20,22 @@ export const links = [
     path: "/contact",
   },
 ];
+
+export const btns = [
+  {
+    id: 1,
+    name: "SHOW ALL",
+  },
+  {
+    id: 2,
+    name: "DESIGNERS",
+  },
+  {
+    id: 3,
+    name: "DEVLOPERS",
+  },
+  {
+    id: 4,
+    name: "MARKETERS",
+  },
+];

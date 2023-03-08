@@ -13,3 +13,8 @@
   margin: 0 auto;
   max-width: 2160px;
 }
+
+img {
+  width: 40rem;
+  aspect-ratio: 1/1;
+}

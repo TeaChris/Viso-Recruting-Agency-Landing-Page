@@ -17,6 +17,10 @@ module.exports = {
         colorWhite: "#fff",
         colorBlack: "#000",
       },
+      spacing: {
+        seekers: "30rem",
+        img: "70rem",
+      },
     },
   },
   plugins: [],
